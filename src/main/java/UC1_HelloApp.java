@@ -1,4 +1,3 @@
-package org.example;
 
 public class UC1_HelloApp {
     static void main(String[] args) {
